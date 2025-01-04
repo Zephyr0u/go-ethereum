@@ -5,6 +5,10 @@ import (
 	"testing"
 )
 
+import (
+	"math/rand"
+	"testing"
+
 var sink []byte
 
 func BenchmarkPrettyInt64Logfmt(b *testing.B) {
