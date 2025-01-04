@@ -15,6 +15,7 @@
 // along with the go-ethereum library. If not, see <http://www.gnu.org/licenses/>.
 
 package ethclient_test
+package ethclient_test
 
 import (
 	"github.com/ethereum/go-ethereum/node"
